@@ -16,7 +16,7 @@
 		android:autoText="false" android:capitalize="none"
 		android:scrollHorizontally="true" />
 	<Button android:id="@+id/send" android:layout_width="fill_parent"
-		android:layout_height="wrap_content" android:text="Envoyer">
+		android:layout_height="wrap_content" android:text="Mandar mensaje">
 	</Button>
 </LinearLayout>
 
